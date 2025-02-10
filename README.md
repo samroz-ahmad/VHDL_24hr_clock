@@ -33,5 +33,5 @@ The 7-segment display output process plays a crucial role in visually presenting
 ### Authors
 - Samroz Ahmad Shoaib
 - Moeez Tariq
-- Basil Ahmad Quraishi
+- Basil Ahmad 
 - Azaz ur Rehman Nasir
