@@ -29,3 +29,9 @@ The counter process is the core of the hex counter functionality. It increments 
 ### 7-Segment Display Output Process
 
 The 7-segment display output process plays a crucial role in visually presenting the counter values. It utilizes the `counter1` variable to determine which digit of the 7-segment display to update. The process converts the value of the corresponding counter variable to hexadecimal and outputs it to the 7-segment display. Time information is organized using variables (`hours`, `minutes`, `tens`, and `ones`), with the thousands and hundreds variables not utilized in this specific implementation.
+
+### Authors
+- Samroz Ahmad Shoaib
+- Moeez Tariq
+- Basil Ahmad Quraishi
+- Azaz ur Rehman Nasir
