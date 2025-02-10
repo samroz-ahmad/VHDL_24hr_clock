@@ -1,0 +1,24 @@
+NET "seg<6>" LOC = L14;
+NET "seg<5>" LOC = H12;
+NET "seg<4>" LOC = N14;
+NET "seg<3>" LOC = N11;
+NET "seg<2>" LOC = P12;
+NET "seg<1>" LOC = L13;
+NET "seg<0>" LOC = M12;
+
+NET "clk" LOC = B8;
+
+NET "leds<0>" LOC = M5;
+NET "leds<1>" LOC = M11;
+NET "leds<2>" LOC = P7;
+NET "leds<3>" LOC = P6;
+NET "leds<4>"  LOC = N5;
+NET "leds<5>"  LOC = N4;
+
+NET "reset" LOC = G12;
+NET "change" LOC = C11;
+
+NET "an<0>" LOC = K14;
+NET "an<1>" LOC = M13;
+NET "an<2>" LOC = J12;
+NET "an<3>" LOC = F12;
